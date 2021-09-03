@@ -51,7 +51,7 @@
   [Link to GitHub Repo](https://github.com/lchinquee/backviews)
 
   ## Heroku 
-  [Link to Deployed Website via Heroku]()
+  [Link to Deployed Website via Heroku](https://tranquil-bryce-canyon-15915.herokuapp.com/)
 
   # References
   Rutgers Coding Bootcamp class materials, online documentation and TA resources.

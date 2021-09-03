@@ -33,4 +33,19 @@ router.post('/notes', (req, res) => {
     }
 });
 
+// Delete a note
+router.delete('/notes/:id', (req, res) => {
+    const result = findById(req.params.id, notes);
+    const id = req.params.id;
+    console.log(id);
+
+    if (result) {
+        delete notes[id];
+        let newArray = notes.splice(id, 1);
+        res.json(newArray);
+    } else {
+        res.send(404);
+    }
+});
+
 module.exports = router;

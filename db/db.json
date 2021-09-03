@@ -1,28 +1,19 @@
 {
   "notes": [
     {
-      "title": "Test Title",
-      "text": "Test text"
+      "title": "Test Note",
+      "text": "Wow we're taking notes!",
+      "id": "0"
     },
     {
-      "title": "test",
-      "text": "test",
+      "title": "Another Note",
+      "text": "I can add notes!!",
       "id": "1"
     },
     {
-      "title": "New Note",
-      "text": "I can add notes!!",
+      "title": "To Do",
+      "text": "Add more notes",
       "id": "2"
-    },
-    {
-      "title": "Add note",
-      "text": "add note",
-      "id": "3"
-    },
-    {
-      "title": "Adding another one",
-      "text": "Adding another note",
-      "id": "4"
     }
   ]
 }
